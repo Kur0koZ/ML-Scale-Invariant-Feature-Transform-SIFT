@@ -1,4 +1,4 @@
-#function.py
+# function.py
 
 import numpy as np
 from itertools import combinations
